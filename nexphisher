@@ -78,7 +78,7 @@ printf "\e[0m\e[92m  |  \| | | |  \  /  \e[0m\e[93m| |_) | |\___ \| |_| || ||  \
 printf "\e[0m\e[92m  | |\  | | |  /  \  \e[0m\e[93m|  __/| | ___) |  _  || || |\  | |_| | \e[0m\n"
 printf "\e[0m\e[92m  |_| \_| |_| /_/\_\ \e[0m\e[93m|_|  |___|____/|_| |_|___|_| \_|\____| \e[0m\e[1;44m[V 1.0]\e[0m\n"
 printf "\e[0m\n"
-printf " \e[0m\e[1;41m Advanced Phishing Tool with 30+ Templates  [BY : N1X Hacking Teams ]\e[0m\n"
+printf " \e[0m\e[1;41m Advanced Phishing Tool   [BY : N1X Hacking Teams ]\e[0m\n"
 printf "\e[0m\n"
 
 }
